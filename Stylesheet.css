@@ -1,0 +1,32 @@
+html {
+  background: lightgoldenrodyellow;  
+}
+
+h1 {
+  text-align: center;
+  color: pink;
+}
+
+body {
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: green;
+    font-style: italic;
+    float: right;
+    image: b
+}
+
+footer {
+    float: left;
+    padding-top: 15px
+}
+
+#signature {
+  color: black;
+  font-family: cursive;
+  text-align: left;
+}
